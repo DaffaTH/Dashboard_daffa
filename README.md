@@ -72,7 +72,7 @@ Dashboard IPM Indonesia adalah dashboard interaktif yang berisi tentang informas
 * Tableau
 * Microsoft Excel
 
-1. Sumber Data
+2. Sumber Data
 * [Indeks Pembangunan Manusia](https://www.bps.go.id/subject/26/indeks-pembangunan-manusia.html#subjekViewTab3)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
