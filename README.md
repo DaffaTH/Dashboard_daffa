@@ -95,11 +95,14 @@ Pada tahap ini dilakukan seleksi data mana saja yang akan divisualisasikan pada 
 Data yang telah diseleksi kemudian dikelompokkan ke beberapa dataset yang akan digunakan untuk pembuatan masing-masing visualisasi. Pengelompokan data ini dilakukan menggunakan Microsoft Excel.
 
 ### Pembuatan Visualisasi Data
-Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi yang dibuat adalah :
+Pembuatan visualisasi data dilakukan dengan Tableau. 
+Beberapa jenis visualisasi yang dibuat adalah :
 1. Data Nasional
+
 ![nasional][nasional]
 
 2. Data Provinsi
+
 ![provinsi][provinsi]
 
 ### Pembuatan Dashboard
