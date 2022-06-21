@@ -59,7 +59,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Tentang Projek
-
+![Tampilan Dashboard][tampilan-project]
+  
 Dashboard IPM Indonesia adalah dashboard interaktif yang berisi tentang informasi - informasi terkait jumlah penduduk dan komponen penyusun IPM di Indonesia pada tahun 2018-2021 yang berasal dari publikasi tahunan Badan Pusat Statistik yaitu IPM.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -114,3 +115,13 @@ Instagram :[@daffataufiq_](https://www.instagram.com/daffataufiq_/?hl=id)
 Email : 221910705@stis.ac.id
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[tampilan-project]: image/Tampilan.jpg
+[angka]: images/angka.jpeg
+[peta]: images/peta.jpeg
+[treemap]: images/treemap.jpeg
+[barchart]: images/barchart.jpeg
+[donutchart]: images/donutchart.jpeg
