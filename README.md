@@ -97,10 +97,10 @@ Data yang telah diseleksi kemudian dikelompokkan ke beberapa dataset yang akan d
 ### Pembuatan Visualisasi Data
 Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi yang dibuat adalah :
 1. Data Nasional
-![nasional][data nasional]
+![nasional][nasional]
 
 2. Data Provinsi
-![provinsi][data provinsi]
+![provinsi][provinsi]
 
 ### Pembuatan Dashboard
 Setelah semua bentuk visualisasi telah dibuat, langkah selanjutnya adalah pembuatan dashboard menggunakan Tableau. Pada tahapan ini, terdapat juga pembuatan filter, penyeragaman warna dan sebagainya.
