@@ -124,5 +124,5 @@ Email : 221910705@stis.ac.id
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [tampilan-project]: image/Tampilan.jpg
-[nasional]: image/Data Nasioanal.png
-[provinsi]: image/Data Prov.jpg
+[nasional]: image/nasioanal.png
+[provinsi]: image/prov.jpg
