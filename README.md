@@ -95,8 +95,12 @@ Pada tahap ini dilakukan seleksi data mana saja yang akan divisualisasikan pada 
 Data yang telah diseleksi kemudian dikelompokkan ke beberapa dataset yang akan digunakan untuk pembuatan masing-masing visualisasi. Pengelompokan data ini dilakukan menggunakan Microsoft Excel.
 
 ### Pembuatan Visualisasi Data
-Pembuatan visualisasi data dilakukan dengan Tableau.
+Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi yang dibuat adalah :
+1. Data Nasional
+![nasional][data nasional]
 
+2. Data Provinsi
+![provinsi][data provinsi]
 
 ### Pembuatan Dashboard
 Setelah semua bentuk visualisasi telah dibuat, langkah selanjutnya adalah pembuatan dashboard menggunakan Tableau. Pada tahapan ini, terdapat juga pembuatan filter, penyeragaman warna dan sebagainya.
@@ -120,8 +124,5 @@ Email : 221910705@stis.ac.id
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [tampilan-project]: image/Tampilan.jpg
-[angka]: images/angka.jpeg
-[peta]: images/peta.jpeg
-[treemap]: images/treemap.jpeg
-[barchart]: images/barchart.jpeg
-[donutchart]: images/donutchart.jpeg
+[nasional]: image/Data Nasioanal.png
+[provinsi]: image/Data Prov.jpg
