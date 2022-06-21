@@ -97,7 +97,7 @@ Data yang telah diseleksi kemudian dikelompokkan ke beberapa dataset yang akan d
 ### Pembuatan Visualisasi Data
 Pembuatan visualisasi data dilakukan dengan Tableau. Beberapa jenis visualisasi yang dibuat adalah :
 1. Data Nasional
-![nasional][nasional]
+![nasional][nas]
 
 2. Data Provinsi
 ![provinsi][provinsi]
@@ -124,5 +124,5 @@ Email : 221910705@stis.ac.id
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [tampilan-project]: image/Tampilan.jpg
-[nasional]: image/nasioanal.jpg
+[nas]: image/nasioanal.jpg
 [provinsi]: image/prov.jpg
